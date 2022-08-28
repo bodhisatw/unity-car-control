@@ -1,6 +1,6 @@
 # unity-car-control
 
-car(drivtraine script, carhandler1 or 2) - | carbody
+car(drivtraine script, carhandler1 or 2) - | carbody </n>
       | com
       | cbr (emprty collider object of wheel add tyre mesh manualy) 
       |  cfr (emprty collider object of wheel)
